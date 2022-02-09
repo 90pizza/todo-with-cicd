@@ -27,7 +27,6 @@
   - CORS Filter 구현
 
 ---
-
-CI Jenkins webhook 연동이 되었나?
+변경이 생겼다 ㅎㅎ
 
 Jenkins CI 연동 완료
