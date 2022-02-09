@@ -28,6 +28,6 @@
 
 ---
 
-김시윤 천재다
+CI Jenkins webhook 연동이 되었나?
 
 Jenkins CI 연동 완료
