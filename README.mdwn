@@ -27,6 +27,6 @@
   - CORS Filter 구현
 
 ---
-변경이 생겼다 ㅎㅎ
+수정수정
 
 Jenkins CI 연동 완료
